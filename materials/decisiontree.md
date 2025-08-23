@@ -71,3 +71,9 @@ Para analisarmos o maior ganho de informação devemos calcular a diferença da 
 ![alt text](./img/decisiontree/image01.png)
 
 Sendo o fator de escolha somente aquele que tem **o maior ganho**. 
+
+E para descriminar as classes devemos seguir o seguinte algoritmo:
+
+1. Escolher um atributo
+2. Adicionar um ramo para cada valor do atributo.
+3. Passar o exemplo para as folhas, podendo finalizar as camadas ou repetir de novo pelo passo 1 retirando os que já foram analisados. 
