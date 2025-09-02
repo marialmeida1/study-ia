@@ -47,5 +47,5 @@ As melhores escolhas portanto seriam:
 * Usar a média para `age` já que possue uma quantidade considerávdel de valores nulos, podendo a moda causar alterações drásticas na base de dados
 * A coluna `cabin`pode ser retirada já que possuem mais valores nulos que do que possívelmente utilizados
 * Outras colunas como `Name`, `Ticket`, `PassengerId`, também podem ser retiradas já que são identificadores
-* Outro ponto de melhoria seria transformar em valores númericos `Sex`, `Embarked` que são textos
+* Outro ponto de melhoria seria transformar em valores númericos `Sex`, `Embarked` que são textos.
 
